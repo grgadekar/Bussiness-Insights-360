@@ -10,12 +10,12 @@ The Business Insights 360 Dashboard is an advanced analytics solution developed 
 > 3. Drillable Insights: Enabled stakeholders to drill down into data for deeper insights, facilitating informed decision-making.
 
 ## Skills Used
-1.Power BI: Dashboard creation and data visualization
-2.SQL: Data querying and manipulation
-3.DAX: Advanced calculations and metrics
-4.Power Query: Data transformation and preparation
-5.Data Modeling: Integrating and optimizing multiple data sources
-6.Dashboard Design: User interface design and user experience optimization
+1. Power BI: Dashboard creation and data visualization
+2. SQL: Data querying and manipulation
+3. DAX: Advanced calculations and metrics
+4. Power Query: Data transformation and preparation
+5. Data Modeling: Integrating and optimizing multiple data sources
+6. Dashboard Design: User interface design and user experience optimization
 
 ## Learnings
 - Mastered Power Query for both basic and advanced data transformation operations, ensuring data integrity and accuracy.
