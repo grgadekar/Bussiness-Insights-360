@@ -28,11 +28,22 @@ The Business Insights 360 Dashboard is an advanced analytics solution developed 
 > Fostered a data-driven culture within AtliQ Hardwares, empowering teams to leverage data for strategic initiatives.
 > Enhanced collaboration across departments by providing a single source of truth for financial, sales, marketing, and supply chain metrics.
 
+# Data Model
 ![BI 360 Data Model](https://github.com/user-attachments/assets/66a1ddd8-e44b-4c25-b838-a04156521ab1)
+
+# Finance View
 ![Finance View](https://github.com/user-attachments/assets/913ade79-3a5a-4489-aca1-b923f4f79aec)
+
+# Executive View
 ![Executive View](https://github.com/user-attachments/assets/7416d509-38c0-4cab-ba3d-460b076a4c56)
+
+# Supply Chain View
 ![Supply Chain View](https://github.com/user-attachments/assets/db1dfb87-21c5-4323-8675-1a966e4e4f6a)
+
+# Marketing View
 ![Marketing View](https://github.com/user-attachments/assets/cb4d5759-5aff-4516-ab43-9226f5971879)
+
+# Sales View
 ![Sales View](https://github.com/user-attachments/assets/3c355daf-ae9e-44c0-8f34-bc7e0f0232fc)
 
 
