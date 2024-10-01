@@ -5,9 +5,9 @@
 The Business Insights 360 Dashboard is an advanced analytics solution developed for AtliQ Hardwares, aimed at transforming data-driven decision-making across finance, sales, marketing, and supply chain teams. This project replaces traditional Excel reporting with dynamic visualizations, providing stakeholders with actionable insights in real time.
 
 ## Key Features:
-> 1. Robust Data Modeling: Integrated data from over 10 tables to ensure a comprehensive analysis of business performance.
-> 2. User-Centric Dashboard Design: Created intuitive, user-friendly dashboards that allow stakeholders to navigate and explore data effortlessly.
-> 3. Drillable Insights: Enabled stakeholders to drill down into data for deeper insights, facilitating informed decision-making.
+ 1. Robust Data Modeling: Integrated data from over 10 tables to ensure a comprehensive analysis of business performance.
+ 2. User-Centric Dashboard Design: Created intuitive, user-friendly dashboards that allow stakeholders to navigate and explore data effortlessly.
+ 3. Drillable Insights: Enabled stakeholders to drill down into data for deeper insights, facilitating informed decision-making.
 
 ## Skills Used
 1. Power BI: Dashboard creation and data visualization
@@ -25,9 +25,9 @@ The Business Insights 360 Dashboard is an advanced analytics solution developed 
 - Implemented stakeholder feedback mechanisms for continuous improvement of the dashboard.
 
 ## Outcomes
-> - Improved decision-making processes by transitioning from static Excel reports to interactive dashboards, enabling real-time insights.
-> - Fostered a data-driven culture within AtliQ Hardwares, empowering teams to leverage data for strategic initiatives.
-> - Enhanced collaboration across departments by providing a single source of truth for financial, sales, marketing, and supply chain metrics.
+ - Improved decision-making processes by transitioning from static Excel reports to interactive dashboards, enabling real-time insights.
+ - Fostered a data-driven culture within AtliQ Hardwares, empowering teams to leverage data for strategic initiatives.
+ - Enhanced collaboration across departments by providing a single source of truth for financial, sales, marketing, and supply chain metrics.
 
 # Data Model
 ![BI 360 Data Model](https://github.com/user-attachments/assets/66a1ddd8-e44b-4c25-b838-a04156521ab1)
